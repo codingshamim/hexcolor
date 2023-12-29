@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "product_img": "img/img.png",
+    "title": "Sleek Leather Messenger Bag",
+    "description": "Crafted from genuine leather, this stylish messenger bag offers timeless elegance and ample storage for your daily essentials."
+  },
+  {
+    "id": 2,
+    "product_img": "img/img.png",
+    "title": "Wireless Noise-Cancelling Headphones",
+    "description": "Immerse yourself in rich audio and escape the noise with these comfortable wireless headphones featuring advanced noise cancellation technology."
+  },
+  {
+    "id": 3,
+    "product_img": "img/img.png",
+    "title": "Ergonomic Office Chair",
+    "description": "Experience unparalleled comfort and support with this high-performance office chair designed for optimal posture and productivity."
+  },
+  {
+    "id": 4,
+    "product_img": "img/img.png",
+    "title": "Versatile Smartwatch",
+    "description": "Stay connected, track your fitness, and make contactless payments with this sleek smartwatch packed with features and customizable apps."
+  },
+  {
+    "id": 5,
+    "product_img": "img/img.png",
+    "title": "Ultra-HD Smart TV",
+    "description": "Experience stunning visuals and immersive sound with this state-of-the-art smart TV featuring a crystal-clear 4K display and intelligent voice control."
+  },
+  {
+    "id": 6,
+    "product_img": "img/img.png",
+    "title": "Professional-Grade Blender",
+    "description": "Create delicious smoothies, sauces, and soups with ease using this powerful blender boasting multiple speed settings and a durable stainless steel blade."
+  },
+  {
+    "id": 7,
+    "product_img": "img/img.png",
+    "title": "Sustainable Water Bottle",
+    "description": "Stay hydrated and eco-friendly with this reusable water bottle made from durable materials and featuring a sleek design."
+  },
+  {
+    "id": 8,
+    "product_img": "img/img.png",
+    "title": "Portable Bluetooth Speaker",
+    "description": "Bring your music with you wherever you go with this compact Bluetooth speaker that delivers rich sound and impressive battery life."
+  },
+  {
+    "id": 9,
+    "product_img": "img/img.png",
+    "title": "Aromatherapy Essential Oil Diffuser",
+    "description": "Create a relaxing and inviting atmosphere in your home with this essential oil diffuser that fills the air with soothing scents."
+  },
+  {
+    "id": 10,
+    "product_img": "img/img.png",
+    "title": "Fast-Charging Wireless Charging Pad",
+    "description": "Effortlessly power up your devices without the clutter of cords with this stylish wireless charging pad that delivers fast and efficient charging."
+  }
+]
